@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning the basics of HTML, CSS, and Javascript
+- 🌱 I’m currently learning Java and OOP
+- 😄 Pronouns: He / him
+- 💬 I have intermediate coding skills in C
 <!--
 **Renz5678/Renz5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
