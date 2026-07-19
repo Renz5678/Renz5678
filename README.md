@@ -22,6 +22,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=renz5678&theme=dark&background=0D0D0D&stroke=8B0000&ring=C41E3A&fire=C41E3A&currStreakLabel=D4D4D4&sideLabels=D4D4D4&currStreakNum=C41E3A&sideNums=D4D4D4&dates=6B6B6B&hide_border=true" alt="GitHub Streak" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renz5678/renz5678/output/red-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/renz5678/renz5678/output/red-snake.svg">
+</picture>
+
 </div>
 
 <br>
@@ -30,14 +37,7 @@
 
 <div align="center">
 
-![React](https://img.shields.io/badge/-React-0D0D0D?style=flat-square&logo=react&logoColor=C41E3A)
-![Node.js](https://img.shields.io/badge/-Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=C41E3A)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=C41E3A)
-![Express](https://img.shields.io/badge/-Express-0D0D0D?style=flat-square&logo=express&logoColor=C41E3A)
-![React Native](https://img.shields.io/badge/-React_Native-0D0D0D?style=flat-square&logo=react&logoColor=C41E3A)
-![C++](https://img.shields.io/badge/-C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=C41E3A)
-![Linux](https://img.shields.io/badge/-Fedora-0D0D0D?style=flat-square&logo=fedora&logoColor=C41E3A)
-![Docker](https://img.shields.io/badge/-Docker-0D0D0D?style=flat-square&logo=docker&logoColor=C41E3A)
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,express,cpp,linux,docker&theme=dark" alt="Skills" />
 
 </div>
 
@@ -58,6 +58,14 @@ React/Vite frontend. Node/Express/Sequelize/PostgreSQL backend. Client portal, a
 
 React Native/Expo. Six graph algorithms implemented from scratch: Dijkstra, A*, BFS, DFS, Prim's MST, topological sort. Exports to Cisco IOS CLI.
 </details>
+
+<details>
+<summary><b>BARAKO</b> — offline-first fitness planner</summary>
+<br>
+
+React Native, Expo, SQLite, Supabase. Local-first sync. Backtracking, greedy, knapsack, and sequential search under the hood.
+</details>
+
 <br>
 
 ## `Ongoing Investigation`
