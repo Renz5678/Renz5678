@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: renz5678
           outputs: |
-            dist/red-snake.svg?color_snake=%23FFD700&color_dots=%23161B22,%233A0A0A,%235C1010,%238B0000,%23E63946&color_dark_dots=%23161B22
+            dist/red-snake.svg?color_snake=%23FFD700&color_dots=%23000000,%23262626,%234D4D4D,%23999999,%23FFD700&color_dark_dots=%238B0000
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4
