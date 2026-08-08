@@ -60,7 +60,7 @@ React Native/Expo. Six graph algorithms implemented from scratch: Dijkstra, A*, 
 </details>
 
 <details>
-<summary><b>BARAKO</b> — offline-first fitness planner</summary>
+<summary><b>Tofu</b> — Reading tracker and community review app</summary>
 <br>
 
 React Native, Expo, SQLite, Supabase. Local-first sync. Backtracking, greedy, knapsack, and sequential search under the hood.
