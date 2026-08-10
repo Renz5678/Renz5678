@@ -33,7 +33,7 @@ Third Year BS Computer Science student. I build things for fun 😜️
 
 <br>
 
-## `Equipment`
+## `Equipment (Skills)`
 
 <div align="center">
 
