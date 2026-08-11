@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/-000000?style=flat-square" width="600" height="2">
 </div>
 
-## `Log Entry 001`
+## `About Me`
 
 Third Year BS Computer Science student. I build things for fun 😜️
 
