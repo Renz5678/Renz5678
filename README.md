@@ -12,7 +12,7 @@
 
 ## `About Me`
 
-Third Year BS Computer Science student. I build things for fun 😜️
+Third Year BS Computer Science student. I build things for fun
 
 <br>
 
