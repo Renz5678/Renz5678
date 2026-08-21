@@ -12,7 +12,7 @@
 
 ## `About Me`
 
-Third Year BS Computer Science student. I build things for fun
+Third Year Bachelor of Science in Computer Science student studying in the Polytechnic University of the Philippines.
 
 <br>
 
